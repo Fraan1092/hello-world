@@ -1,2 +1,2 @@
 # hello-world
-Nosexd
+Hello i'm learning to code :)
